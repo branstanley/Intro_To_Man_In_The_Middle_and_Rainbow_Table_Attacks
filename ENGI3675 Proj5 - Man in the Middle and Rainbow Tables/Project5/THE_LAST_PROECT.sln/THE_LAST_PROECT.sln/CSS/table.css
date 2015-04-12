@@ -1,0 +1,17 @@
+﻿.table{
+	display: table;
+}
+
+.row{
+	display: table-row;
+}
+
+.headCell{
+	display: table-cell;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cell{
+	display: table-cell;
+}

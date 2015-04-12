@@ -1,0 +1,15 @@
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\THE_LAST_PROECT.sln.dll.config
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\THE_LAST_PROECT.sln.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\THE_LAST_PROECT.sln.pdb
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\Mono.Security.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\Npgsql.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\Npgsql.xml
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\de\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\es\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\fi\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\fr\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\ja\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\obj\Debug\THE_LAST_PROECT.sln.dll
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\obj\Debug\THE_LAST_PROECT.sln.pdb
+C:\Users\Outsider\Source\Workspaces\Workspace\Proj5\Project5\THE_LAST_PROECT.sln\THE_LAST_PROECT.sln\obj\Debug\THE_LAST_PROECT.sln.csprojResolveAssemblyReference.cache
